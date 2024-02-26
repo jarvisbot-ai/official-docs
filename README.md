@@ -18,11 +18,11 @@ An AI chatbot is an artificial intelligence program designed to simulate interac
 * **Quick Response Time:** AI chatbots can deliver instant replies, typically within a second, enhancing the user experience.
 * **Versatile Use Cases:** They can be used for a variety of purposes, including customer support, lead generation, providing updates on orders, offering personalized recommendations, and more.
 
-### AI-Powered Image Creation <a href="#id-1111" id="id-1111"></a>
+## AI-Powered Image Creation <a href="#id-1111" id="id-1111"></a>
 
 With the integration of AI, you now have the capability to create images using text descriptions (txt2img) and to modify existing images (img2img). This opens up new possibilities for visual content creation, enhancing user interaction and engagement.
 
-#### Text-to-Image (txt2img)
+### Text-to-Image (txt2img)
 
 Just provide a text description, and the AI will create an image that corresponds to the description. This is perfect for:
 
@@ -30,7 +30,7 @@ Just provide a text description, and the AI will create an image that correspond
 * Creating illustrations for articles
 * Generating unique avatars and graphics
 
-#### Image-to-Image (img2img)
+### Image-to-Image (img2img)
 
 You can also transform an existing image by providing a new context or style description. This feature is great for:
 
