@@ -14,19 +14,21 @@ description: >-
 * Log in to [<mark style="color:purple;">JarvisBot</mark>](https://jarvisbot.emchub.ai/)<mark style="color:purple;">.</mark>
 * Click **Create.**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 * Enter a name and description for the bot.
 * Select service provider "**Discord**" or "**Telegram**" and verify the token.
 * Verify EMC App ID and EMC App Token.
 * Choose function "**Chat**" and "**TXT2IMG**" ,then you can create a bot.
 
+***
+
 ## Step 2: Enable your bot <a href="#step-1-create-a-bot" id="step-1-create-a-bot"></a>
 
 * Right-click **More**.
 * Click **Start** to activate the bot.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -36,7 +38,7 @@ description: >-
 2. Click **Link Q\&A Base**
 3. Select a Q\&A Base to the bot.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you don't have any Q\&A base, you can also use the bot.
@@ -49,6 +51,8 @@ If you don't have any Q\&A base, you can also use the bot.
 1. Right-click **More** button.
 2. Click **Link Knowledge**
 3. Select a Knowle Base to the bot.
+
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you don't have any knowledge base, you can also use the bot.

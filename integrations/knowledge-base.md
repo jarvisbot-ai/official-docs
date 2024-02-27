@@ -15,24 +15,28 @@ The primary purpose of a knowledge base is to enable computers to simulate under
 
 A knowledge base can contain facts, rules, policies, procedures, and relationships between concepts, typically organized in a way that a computer program can interpret and use.
 
+***
+
 ## Create Knowlwdge Base and upload text document <a href="#create-knowledge-and-upload-text-content" id="create-knowledge-and-upload-text-content"></a>
 
-* Log in [<mark style="color:purple;">JarvisBot</mark>](https://jarvisbot.emchub.ai/)
-* Click the **Knowledge Base** tab
-* On the **Knowledge Base** page, click **Add**.
+* Log in [<mark style="color:purple;">JarvisBot</mark>](https://jarvisbot.emchub.ai/).
+* Click the **Knowledge Base** tab.
+* On the **Knowledge Base** page, click **Create**.
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-* Enter a name and description for the Knowledge Base, and then click **OK.**
-* On the **Detail** page,click **Upload.**
+* Enter a name and description for the Knowledge Base, and then click **OK**.
+* On the **Detail** page,click **Upload**.
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 * Select local document to upload, and then click **OK**.
 
 {% hint style="info" %}
 Uploading format: JarvisBot supports adding data from local files only in the format of TXT.
 {% endhint %}
+
+***
 
 ## Use Knowledge Base <a href="#use-knowledge-1" id="use-knowledge-1"></a>
 

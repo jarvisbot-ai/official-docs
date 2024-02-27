@@ -5,7 +5,7 @@ description: >-
   commands. Here's a rundown of how they operate:
 ---
 
-# How does a Discord Bot work?
+# Use Discord Bot
 
 ***
 
@@ -41,6 +41,8 @@ For example: <mark style="color:purple;">`@YourBotName what's the capital of US`
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ## Text to Image
 
 * Send a text message to your bot starting by`txt2img [discribe what you want the AI to create]`&#x20;
@@ -48,6 +50,8 @@ For example: <mark style="color:purple;">`@YourBotName what's the capital of US`
 For example: <mark style="color:purple;">`@YourBotName txt2img draw a dog,a cat,in house`</mark>
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## Image to Image
 

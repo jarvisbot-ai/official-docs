@@ -4,7 +4,7 @@ description: >-
   Furthermore, users can generate images by Text-to-Image on website.
 ---
 
-# Use system AIbot
+# Chat
 
 ***
 
@@ -14,18 +14,28 @@ description: >-
 * Giving audiences easy access to knowledge in your Q\&A Base and Knowledge Base.
 * An AI image generator that allows users to create images with precision through various models.
 
+***
+
 ## Chat on website
 
 * Log in [<mark style="color:purple;">JarvisBot</mark>](https://jarvisbot.emchub.ai/).
 * Click the **Chat** tab.
 * Send a message in the text field, and click **Send**.
 
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
+***
+
 ## Text to Image
 
-* Click **Swap** to change a model.
+* Click **Models** to change a model.
 * Send a text message starting by`txt2img [discribe what you want the AI to create]`&#x20;
 
 For example: <mark style="color:purple;">`txt2img draw a dog,a cat,in house`</mark>
+
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## Use Q\&A Base and Knowledge Base <a href="#use-knowledge-1" id="use-knowledge-1"></a>
 

@@ -5,7 +5,7 @@ description: >-
   send commands. Here's a rundown of how they operate:
 ---
 
-# How does a Telegram Bot work?
+# Use Telegram Bot
 
 ***
 
@@ -39,6 +39,8 @@ Whatever you’re using Telegram for, if you have a group or a channel, you must
 
 </div>
 
+***
+
 ## Chat in a group or channel
 
 * Send a text message to your bot&#x20;
@@ -51,6 +53,8 @@ For example: <mark style="color:purple;">`@YourBotName what's the capital of US`
 
 </div>
 
+***
+
 ## Text to Image
 
 * Send a text message to your bot starting by`txt2img [discribe what you want the AI to create]`&#x20;
@@ -58,6 +62,8 @@ For example: <mark style="color:purple;">`@YourBotName what's the capital of US`
 For example: <mark style="color:purple;">`@YourBotName txt2img draw a dog,a cat,in house`</mark>
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## Image to Image
 

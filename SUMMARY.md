@@ -12,7 +12,7 @@
 
 ## INTEGRATIONs
 
-* [Use system AIbot](integrations/use-system-aibot.md)
+* [Chat](integrations/chat.md)
 * [Q\&A Base](integrations/q-and-a-base.md)
 * [Knowledge Base](integrations/knowledge-base.md)
 * [Use Discord Bot](integrations/use-discord-bot.md)

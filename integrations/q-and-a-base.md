@@ -12,20 +12,31 @@ description: >-
 
 Even when the bot may not have intelligent answers every time, you can upload fixed question and answer set to ensure that your AIBot answers the relevant questions according to the settings.
 
+***
+
 ## Create Q\&A Base and type Q\&A set <a href="#create-knowledge-and-upload-text-content" id="create-knowledge-and-upload-text-content"></a>
 
-* Log in [<mark style="color:purple;">JarvisBot</mark>](https://jarvisbot.emchub.ai/)
-* Click the **Q\&A Base** tab
-* On the **Q\&A Base** page, click **Add**.
+* Log in [<mark style="color:purple;">JarvisBot</mark>](https://jarvisbot.emchub.ai/).
+* Click the **Q\&A Base** tab.
+* On the **Q\&A Base** page, click **Create**.
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 * Enter a name and description for the Q\&A Base, and then click **OK.**
 * On the **Detail** page,click **Add.**
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 * Enter Question and Answer as a set, and then click **OK**.
+
+***
+
+## Sync Q\&A Base
+
+* On the **Detail** page,click **Sync.**
+* On the Q\&A Base tab，Right-click **More**, and then click **Sync**.
+
+***
 
 ## Use Q\&A Base <a href="#use-knowledge-1" id="use-knowledge-1"></a>
 
