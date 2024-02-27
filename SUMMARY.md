@@ -12,7 +12,8 @@
 
 ## INTEGRATIONs
 
+* [Use system AIbot](integrations/use-system-aibot.md)
 * [Q\&A Base](integrations/q-and-a-base.md)
 * [Knowledge Base](integrations/knowledge-base.md)
-* [How does a Discord Bot work?](integrations/how-does-a-discord-bot-work.md)
-* [How does a Telegram Bot work?](integrations/how-does-a-telegram-bot-work.md)
+* [Use Discord Bot](integrations/use-discord-bot.md)
+* [Use Telegram Bot](integrations/use-telegram-bot.md)
