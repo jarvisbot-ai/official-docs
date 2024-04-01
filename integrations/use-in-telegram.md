@@ -1,45 +1,4 @@
----
-description: >-
-  Telegram bots are automated programs that perform a variety of tasks on
-  Telegram servers. They interact with the Telegram API to receive events and
-  send commands. Here's a rundown of how they operate:
----
-
-# Use Telegram Bot
-
-***
-
-## Setup a Telegram group or channel
-
-* Create a group or channel on Telegram.
-
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-
-* Invite the AIbot you created to the group or channel.
-
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
-
-* Set Bot as Admin.
-
-{% hint style="info" %}
-**Attention**
-
-Whatever you’re using Telegram for, if you have a group or a channel, you must get the **Admin Rights** to send and reveive messages.
-{% endhint %}
-
-<div align="left" data-full-width="false">
-
-<figure><img src="../.gitbook/assets/image (32).png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (33).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-***
+# Use in Telegram
 
 ## Chat in a group or channel
 

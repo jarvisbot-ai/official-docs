@@ -47,7 +47,7 @@ Users can just ask a question and get a quick and relevant answer.
 ### Link Knowledge Base to a bot <a href="#step-1-create-a-bot" id="step-1-create-a-bot"></a>
 
 * On the **AIBot** tab, select the bot.
-* Link Knowledge Base to a bot. For more details,see [<mark style="color:purple;">Tutorial</mark>](../introduction/tutorial.md#step-1-create-a-bot-2).
+* Link Knowledge Base to a bot. For more details,see .
 
 {% hint style="info" %}
 Note

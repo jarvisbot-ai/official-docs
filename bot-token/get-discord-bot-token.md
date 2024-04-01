@@ -14,11 +14,11 @@ If you do not have a Discord account, please download and install the Discord ap
 
 * Open [<mark style="color:purple;">Discord Develop Portal</mark>](https://discord.com/developers/applications) in discord and click **New Application**.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Enter the Application name to create a new Discord application.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -26,11 +26,11 @@ If you do not have a Discord account, please download and install the Discord ap
 
 * Once you’ve created your bot, click on it and switch to “**Bot**” tab.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Scroll down and you will see a section called “Privileged Gateway Intents”. Enable the three intents (**Presence Intent**, **Server Members Intent**, **Message Content Intent)** or whichever intents your bot requires. Then click **Save Changes**”.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -38,4 +38,4 @@ If you do not have a Discord account, please download and install the Discord ap
 
 * Click **Reset Token** to generate a new Bot Token and click **Copy** to store it.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

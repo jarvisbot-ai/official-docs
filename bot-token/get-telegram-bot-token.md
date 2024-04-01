@@ -19,7 +19,7 @@ We will create a bot in Telegram step by step. If you do not have a Telegram acc
 
 * Enter the **/newbot** command or click **/newbot** to @BotFather.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Choose a name for your bot. It will be used by your subscribers in their conversations.
 

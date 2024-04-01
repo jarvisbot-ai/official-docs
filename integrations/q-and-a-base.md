@@ -47,7 +47,7 @@ Users can just ask a question and get a quick and same answer in Q\&A Base.
 ### Link Q\&A Base to a bot <a href="#step-1-create-a-bot" id="step-1-create-a-bot"></a>
 
 * On the **AIBot** tab, select the bot.
-* Link Q\&A Base to a bot. For more details,see [<mark style="color:purple;">Tutorial</mark>](../introduction/tutorial.md#step-1-create-a-bot-3).
+* Link Q\&A Base to a bot. For more details,see Link Q\&A Base.
 
 {% hint style="info" %}
 Note
