@@ -116,7 +116,7 @@ If you don't have any Q\&A base, you can also use the bot.
 
 ***
 
-### Link your Knowledge Base <a href="#step-1-create-a-bot" id="step-1-create-a-bot"></a>
+### Link Knowledge Base <a href="#step-1-create-a-bot" id="step-1-create-a-bot"></a>
 
 1. Click **Link** button.
 2. Select a Knowledge Base to the bot.
