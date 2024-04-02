@@ -22,7 +22,16 @@ Bots in community offers published bots displayed. You can edit an customize the
 
 After you select a public bot, you are directed to use the bot.&#x20;
 
-In this document, the **Ask Link** bot is used as an example. It is a bot helping you read and interpret content on a web page.
+In this document, the **Lyrics maker** bot is used as an example. It is a bot helping you create contagious lyrics based on the genre and theme to resonate with the audience.&#x20;
+
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+
+1. Open **Community** > [**Bots**](https://jarvisbot.emchub.ai/community/bots).
+2. In the search field, enter **Lyrics maker** to search.
+3. Click the **Lyrics maker** bot card**.** You can directly to the **Chat** page.
+4. Enter prompt and click **Send** icon. The bot will display the result.
+
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 ## Clone a public bot
 

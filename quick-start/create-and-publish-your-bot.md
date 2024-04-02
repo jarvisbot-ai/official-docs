@@ -94,7 +94,7 @@ Enter the prompts below to set role of bot. Prompts are a fundamental mechanism 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -106,7 +106,7 @@ Enter the prompts below to set role of bot. Prompts are a fundamental mechanism 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="294"><figcaption></figcaption></figure>
 
 </div>
 

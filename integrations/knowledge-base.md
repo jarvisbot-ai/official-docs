@@ -23,12 +23,16 @@ A knowledge base can contain facts, rules, policies, procedures, and relationshi
 * Click the **Knowledge Base** tab.
 * On the **Knowledge Base** page, click **Create**.
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 * Enter a name and description for the Knowledge Base, and then click **OK**.
 * On the **Detail** page,click **Upload**.
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (75).png" alt="" width="321"><figcaption></figcaption></figure>
+
+</div>
 
 * Select local document to upload, and then click **OK**.
 
