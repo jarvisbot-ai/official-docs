@@ -12,7 +12,7 @@ For example: <mark style="color:purple;">`@YourBotName what's the capital of US`
 
 ## Text to Image
 
-* Send a text message to your bot starting by`txt2img [discribe what you want the AI to create]`&#x20;
+* Send a text message to your bot starting by`txt2img [describe what you want the AI to create]`&#x20;
 
 For example: <mark style="color:purple;">`@YourBotName txt2img draw a dog,a cat,in house`</mark>
 
@@ -25,7 +25,7 @@ For example: <mark style="color:purple;">`@YourBotName txt2img draw a dog,a cat,
 ### From generated image
 
 1. Choose an image generated to reply.
-2. Send a text message to your bot  by typing `img2img [Imageindex] [Discribe what you want the AI to create]`
+2. Send a text message to your bot  by typing `img2img [Imageindex] [Describe what you want the AI to create]`
 
 For example:  <mark style="color:purple;">`@YourBotName img2img 1# draw a dog,a cat,in house [Your image]`</mark>
 
@@ -36,7 +36,7 @@ For example:  <mark style="color:purple;">`@YourBotName img2img 1# draw a dog,a 
 ### From  your own image
 
 1. Upload your own image.
-2. Send a text message to your bot by typing `/img2img [Discribe what you want the AI to create]`&#x20;
+2. Send a text message to your bot by typing `/img2img [Describe what you want the AI to create]`&#x20;
 3. Add your own image and click **Send**.
 
 For example: <mark style="color:purple;">`[Your image] @YourBotName /img2img draw a dog,a cat,in house`</mark>
